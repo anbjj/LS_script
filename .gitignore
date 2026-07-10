@@ -2,18 +2,18 @@
 *
 
 # Allow public documentation and distribution folders.
-!Dist/
+!dist/
 !docs/
 
 # Allow primary documentation.
 !.gitignore
 !README.md
 !docs/*.md
-!Dist/README.md
+!dist/README.md
 
 # Allow public Excel workbooks and version manifest.
-!Dist/*.xlsm
-!Dist/versions.json
+!dist/*.xlsm
+!dist/versions.json
 
 # Ignore Office and temporary files.
 ~$*
