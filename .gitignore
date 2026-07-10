@@ -1,0 +1,21 @@
+# Ignore everything by default.
+*
+
+# Allow public documentation and distribution folders.
+!Dist/
+!docs/
+
+# Allow primary documentation.
+!.gitignore
+!README.md
+!docs/*.md
+!Dist/README.md
+
+# Allow public Excel workbooks and version manifest.
+!Dist/*.xlsm
+!Dist/versions.json
+
+# Ignore Office and temporary files.
+~$*
+*.tmp
+*.bak

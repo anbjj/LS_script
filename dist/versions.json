@@ -1,0 +1,14 @@
+{
+  "opret-ret-101x": {
+    "name": "Opret-Ret 101x",
+    "version": "1.0.0",
+    "downloadUrl": "Opret-Ret%20101x.xlsm",
+    "guideUrl": "../docs/opret-ret-101x.md"
+  },
+  "ret-tillaeg-102": {
+    "name": "Ret Tillæg - 102",
+    "version": "1.0.0",
+    "downloadUrl": "Ret%20Tillaeg%20-%20102.xlsm",
+    "guideUrl": "../docs/ret-tillaeg-102.md"
+  }
+}
