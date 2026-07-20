@@ -8,10 +8,10 @@ i lønsystemet ud fra ark i Excel.
 
 ## Download
 
-| Script | Excel-fil | Brugervejledning |
-|---|---|---|
-| Opret-Ret 101x | [Opret-Ret 101x.xlsm](dist/Opret-Ret%20101x.xlsm) | [Brugervejledning](docs/opret-ret-101x.md) |
-| Ret Tillæg - 102 | [Ret Tillaeg - 102.xlsm](dist/Ret%20Tillaeg%20-%20102.xlsm) | [Brugervejledning](docs/ret-tillaeg-102.md) |
+| Script | Version | Excel-fil | Brugervejledning |
+|---|---|---|---|
+| Opret-Ret 101x | 1.0.1 | [Opret-Ret 101x.xlsm](dist/Opret-Ret%20101x.xlsm) | [Brugervejledning](docs/opret-ret-101x.md) |
+| Ret Tillæg - 102 | 1.0.1 | [Ret Tillaeg - 102.xlsm](dist/Ret%20Tillaeg%20-%20102.xlsm) | [Brugervejledning](docs/ret-tillaeg-102.md) |
 
 ## Før du bruger filerne
 
